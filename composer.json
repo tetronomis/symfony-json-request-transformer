@@ -1,5 +1,5 @@
 {
-  "name": "qandidate/symfony-json-request-transformer",
+  "name": "tetronomis/symfony-json-request-transformer",
   "description": "A Symfony event listener for decoding JSON encoded request content",
   "license": "MIT",
   "authors": [
